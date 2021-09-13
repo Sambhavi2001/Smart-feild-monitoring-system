@@ -19,7 +19,7 @@ boolean HT;
 
 void setup()
 {
-    gsm.begin(9600);
+    gsm.begin(9699);
     pinMode(A0, INPUT);
     pinMode(A1, INPUT);
     pinMode(A2, INPUT);
